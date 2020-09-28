@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**charlotteortiz22/charlotteortiz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola mi nombre es Charlotte Ortiz 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudio la carrera de ingenieria mecatronica en la Universidad Latina de Panama.
+
+
+Las herramientas que manejo son: 
+
+<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=red">
+
+
+
+Me pueden encontar en YouTube
+
+https://www.youtube.com/channel/UCN1RBKLSu5nJGRX92kbpPCA?view_as=subscriber
+
